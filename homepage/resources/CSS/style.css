@@ -54,10 +54,13 @@ padding:1em 2em 1em 2em;
 .categories .container h3 {
   background-color: green;
   padding: 4em 7em 4em 7em;
-  border-radius: .5em;
+  border-radius: .9em;
+  color: white;
 }
-#marketing {
-  background-image: url("C:\Code Academy\my-website\homepage\resources\images");
+#marketing h3{
+  background-image:url("C:/Code Academy/my-website/homepage/resources/images/website-cta-mailbox.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Footer */
