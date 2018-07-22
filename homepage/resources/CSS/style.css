@@ -10,6 +10,9 @@ h2 {
 text-align: center;
 vertical-align: middle;
 }
+.btn {
+  background-color: green;
+}
 /* jumbotron */
 .jumbotron {
   padding: 8em 0 8em 0;
@@ -53,10 +56,18 @@ padding:1em 2em 1em 2em;
   padding: 4em 7em 4em 7em;
   border-radius: .5em;
 }
+#marketing {
+  background-image: url("C:\Code Academy\my-website\homepage\resources\images");
+}
 
 /* Footer */
 #social {
   background-color: lightblue;
   margin-top:2em;
-  padding: 5em 0 5em 0;
+  padding: 1em 15em 1em 15em;
+}
+.col-lg-6 img {
+  height: 10em;
+  width: 10em;
+
 }
