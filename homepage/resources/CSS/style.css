@@ -9,10 +9,15 @@ h2 {
 .row {
 text-align: center;
 vertical-align: middle;
+width: auto;
 }
-.btn {
-  background-color: green;
+.nav {
+  margin-bottom: .8em;
 }
+.navbar-header h5 {
+  width: 2em;
+}
+
 /* jumbotron */
 .jumbotron {
   padding: 4em 0 4em 0;
@@ -41,14 +46,14 @@ vertical-align: middle;
   text-align: center;
 }
 /* Introduction */
-.homepage-intro {
+#homepage-intro {
 
   margin: 0em 8em 0em 12em;
 }
 .introduction {
   display: flex;
 }
-.homepage-intro p {
+#homepage-intro p {
   font-size: 1.25em;
   font-weight: bold;
 }
